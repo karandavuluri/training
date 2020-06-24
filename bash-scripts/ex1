@@ -1,0 +1,8 @@
+#!/bin/bash
+
+clear
+
+echo Hello $USER
+echo This is the home path $HOME
+echo This is the history control $HISTCONTROL
+
